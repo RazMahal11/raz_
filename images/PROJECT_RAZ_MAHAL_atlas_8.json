@@ -1,0 +1,27 @@
+﻿{"frames": {
+
+"Bitmap38":
+{
+	"frame": {"x":0,"y":0,"w":1165,"h":1116},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1165,"h":1116},
+	"sourceSize": {"w":1165,"h":1116}
+},
+"FLY2":
+{
+	"frame": {"x":0,"y":1118,"w":1380,"h":742},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1380,"h":742},
+	"sourceSize": {"w":1380,"h":742}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "21.0.7.42652",
+	"image": "PROJECT_RAZ_MAHAL_atlas_8.png",
+	"format": "undefined",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}

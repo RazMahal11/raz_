@@ -1,0 +1,75 @@
+﻿{"frames": {
+
+"Bitmap31":
+{
+	"frame": {"x":0,"y":0,"w":1118,"h":500},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1118,"h":500},
+	"sourceSize": {"w":1118,"h":500}
+},
+"CLOUD":
+{
+	"frame": {"x":0,"y":502,"w":1118,"h":500},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1118,"h":500},
+	"sourceSize": {"w":1118,"h":500}
+},
+"JUMP_LOVE1":
+{
+	"frame": {"x":1477,"y":1308,"w":494,"h":681},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":494,"h":681},
+	"sourceSize": {"w":494,"h":681}
+},
+"JUMP_LOVE3":
+{
+	"frame": {"x":1120,"y":0,"w":569,"h":652},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":569,"h":652},
+	"sourceSize": {"w":569,"h":652}
+},
+"JUMP_LOVE4":
+{
+	"frame": {"x":1477,"y":654,"w":517,"h":652},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":517,"h":652},
+	"sourceSize": {"w":517,"h":652}
+},
+"JUMP_LOVE5":
+{
+	"frame": {"x":495,"y":1004,"w":489,"h":708},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":489,"h":708},
+	"sourceSize": {"w":489,"h":708}
+},
+"WALK2":
+{
+	"frame": {"x":0,"y":1004,"w":493,"h":712},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":493,"h":712},
+	"sourceSize": {"w":493,"h":712}
+},
+"WALK6":
+{
+	"frame": {"x":986,"y":1004,"w":489,"h":708},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":489,"h":708},
+	"sourceSize": {"w":489,"h":708}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "21.0.7.42652",
+	"image": "PROJECT_RAZ_MAHAL_atlas_11.png",
+	"format": "undefined",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}

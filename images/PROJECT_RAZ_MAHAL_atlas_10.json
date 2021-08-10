@@ -1,0 +1,35 @@
+﻿{"frames": {
+
+"EYE":
+{
+	"frame": {"x":0,"y":727,"w":903,"h":1074},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":903,"h":1074},
+	"sourceSize": {"w":903,"h":1074}
+},
+"EYE_INLOVE":
+{
+	"frame": {"x":905,"y":727,"w":724,"h":1016},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":724,"h":1016},
+	"sourceSize": {"w":724,"h":1016}
+},
+"FLY4":
+{
+	"frame": {"x":0,"y":0,"w":1380,"h":725},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1380,"h":725},
+	"sourceSize": {"w":1380,"h":725}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "21.0.7.42652",
+	"image": "PROJECT_RAZ_MAHAL_atlas_10.png",
+	"format": "undefined",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}
